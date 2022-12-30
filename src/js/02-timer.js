@@ -109,5 +109,3 @@ function timerStyle() {
 // console.log(convertMs(2000));
 // console.log(convertMs(140000));
 // console.log(convertMs(24140000));
-
-//////////////////////////// ?
